@@ -4,10 +4,7 @@
 
 An interactive, web-based Bingo game built with React, featuring real-time number generation, card marking, and graphical display of the winning card. Voice announcements for drawn numbers and financial tracking add to the experience.
 
-<div align='center'>  
-  <img src='https://github.com/Yordinia/bingo-web-app/assets/your-image-link' style='width:20vw'>
-</div>
-
+<div align='center'>  <img src='https://github.com/Yordinia/yordinia/blob/main/Module-2/img/Rabbit.png' style='width:10vw'> </div>
 ## Table of Contents
 
 - [Getting Started](#getting-started)
