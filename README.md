@@ -1,14 +1,7 @@
 # bingo-app
-Description: A modern, interactive web-based Bingo game built with React. The app generates random Bingo numbers, lets players mark drawn numbers on their cards, and displays the winning card when someone wins. It includes voice announcements for drawn numbers and tracks bets, sales, and daily earnings.
+## Bingo Web Application 🎉
 
-Here’s a README.md template in the format you specified for your Bingo web app:
-
-
----
-
-Bingo Web Application 🎉
-
-Interactive Online Bingo Game
+## Interactive Online Bingo Game
 
 An interactive, web-based Bingo game built with React, featuring real-time number generation, card marking, and graphical display of the winning card. Voice announcements for drawn numbers and financial tracking add to the experience.
 
